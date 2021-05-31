@@ -4,4 +4,5 @@ body {
     text-align: center;
     line-height: calc(100vh - 1rem);
     font-family: 'Share Tech Mono', monospace;
+    font-size: 30px;
 }
